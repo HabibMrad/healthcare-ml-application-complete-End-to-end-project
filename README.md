@@ -22,7 +22,7 @@ The dataset has been taken from UCI machine learning repository. The main object
 
 ## Malaria Disease
 Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. It is preventable and curable. The severity of malaria varies based on the species of plasmodium. Symptoms are chills, fever and sweating, usually occurring a few weeks after being bitten.<br />
-The dataset contains a total of 27,558 cell images with equal instances of parasitized and uninfected cells.<br />
+The dataset contains a total of 27,558 cell images with equal instances of parasitized and uninfected cells<br />
 *Data Source:* [Malaria Dataset](https://lhncbc.nlm.nih.gov/publication/pub9932)
 
 ## Pneumonia Disease
