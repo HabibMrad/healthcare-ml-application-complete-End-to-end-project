@@ -10,7 +10,7 @@ A disease is an unnatural medical condition that negatively affects the function
 The Heart Disease dataset has been taken from Kaggle. This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. It has a total number of 303 rows and 14 columns among which 165 have a heart disease.<br />
 *Data Source:* [Heart Disease Dataset](https://www.kaggle.com/johnsmith88/heart-disease-dataset)
 
-## Liver Disease.
+## Liver Disease
 Liver disease is any disturbance of liver function that causes illness. The liver is responsible for many critical functions within the body and should it become diseased or injured, the loss of those functions can cause significant damage to the body. Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs.<br />
 This data set contains 416 liver patient records and 167 non liver patient records collected from North East of Andhra Pradesh, India. The "Dataset" column is a class label used to divide groups into liver patient (liver disease) or not (no disease). This data set contains 441 male patient records and 142 female patient records.<br />
 *Data Source:* [Liver Disease Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
